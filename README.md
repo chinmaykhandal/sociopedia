@@ -1,6 +1,6 @@
 # Sociopedia
 Full Stack Social Media Web App built with MERN
-
+Sociopedia is a social media application inspired by Facebook, the application offers a range of features for seamless interaction and communication among users. Users can connect with each other, share content, and engage in social activities. 
 # Features
 * Login and signup
 * Post images and add captions
