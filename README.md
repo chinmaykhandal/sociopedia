@@ -11,6 +11,14 @@ Sociopedia is a social media application inspired by Facebook, the application o
 * See a feed of all posts from your friends
 * See a list of all your friends
 
+# Screenshots
+
+![feed_dark](https://github.com/chinmaykhandal/sociopedia/assets/75906902/067c7dcb-b079-444b-814a-5ed83c7ee7d9)
+![feed](https://github.com/chinmaykhandal/sociopedia/assets/75906902/869a2a95-c4c4-44a9-ad5d-14d57f441904)![post](https://github.com/chinmaykhandal/sociopedia/assets/75906902/8a445848-9926-4078-8139-c5d235fd2e54)
+![signup](https://github.com/chinmaykhandal/sociopedia/assets/75906902/653f5326-e47b-4a73-814e-9053e35d14e8)
+
+
+
 
 # Built With
 
